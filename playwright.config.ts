@@ -6,6 +6,6 @@ export default defineConfig({
   use: {
     baseURL: 'https://seleniumpom8.wordpress.com',
     browserName: 'chromium',
-    headless: false
+    // headless: false
   },
 });
